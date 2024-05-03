@@ -1,0 +1,56 @@
+[
+  {
+    "name": "Arwa Sabuwala",
+    "email": "arwasabuwala@example.com",
+    "password": "$2b$10$UScpmmbeWqvbS6FklfxN7uO53Ta8lBHh2s9ZK8v7Gm8NBpcELkoUG",
+    "id": 1
+  },
+  {
+    "name": "Riya Parmar",
+    "email": "riyaparmar@example.com",
+    "password": "$2b$10$Wl0ivJCS/Tmci0Wo/iZGdeSaQZ8sI7X5bz5bcKmyv0Xm2hBYJSVTe",
+    "id": 2
+  },
+  {
+    "name": "Yashvi Khunt",
+    "email": "yashvikhunt@example.com",
+    "password": "$2b$10$YuSI00UpbtY/jS0JBBI67u5/nYHD1Lkup8Gv6FyBzRvZU7sLofE6G",
+    "id": 3
+  },
+  {
+    "id": 4,
+    "name": "Aarzoo Meghapara",
+    "email": "aarzoo@example.com",
+    "password": "$2b$10$GLWmPTIaeOI2B0dqtJcb0uV6Iwhr6mUmq3sEew3UDIKgkNnpZeyMO"
+  },
+  {
+    "id": 5,
+    "name": "Mansi Bhanderi",
+    "email": "mansibhanderi@example.com",
+    "password": "$2b$10$rVBT4bZ3XATwDw28WTmRsOOx83cvXGEE4kOOcFgTYA5mTqkLNc0CG"
+  },
+  {
+    "id": 6,
+    "name": "Bhumi Vekariya",
+    "email": "bhumivekariya@example.com",
+    "password": "$2b$10$RLmfr3xHaMTe/0ttYoZniuWsd.pJ5N8KaipTyAYtJd.FSCPd/dChW"
+  },
+  {
+    "id": 7,
+    "name": "Khushi Javiya",
+    "email": "khushijaviya@example.com",
+    "password": "$2b$10$nRoVexXcARgeAZT5kinAcuWd5IamQB0XAAn1M1CNkQdgE2/8a3u1C"
+  },
+  {
+    "id": 8,
+    "name": "Krupa Chhaya",
+    "email": "krupachhaya@example.com",
+    "password": "$2b$10$RANbxDBdXB1ayyiv5mb7veyepeb3cxW240HooAWTI85tTvdVH44pC"
+  },
+  {
+    "id": 9,
+    "name": "admin",
+    "email": "admin@example.com",
+    "password": "$2b$10$7GXEakzu/bPkmiMwrSdPA.z2zQMkYwsQz9Zxm41WxEdGerm9pVEDK"
+  }
+]
